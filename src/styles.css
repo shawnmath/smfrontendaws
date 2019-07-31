@@ -26,7 +26,7 @@ a:hover {
 }
 
 a:active {
-  background-color: rgb(233, 19, 19);
+  background-color: salmon;
   color: black;
 }
 
@@ -91,7 +91,7 @@ a:active {
 }
 
 .note:global(.active) {
-  background-color: rgb(129, 255, 94);
+  background-color: rgb(233, 13, 13);
 }
 
 .note__body {
