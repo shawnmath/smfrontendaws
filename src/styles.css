@@ -91,7 +91,7 @@ a:active {
 }
 
 .note:global(.active) {
-  background-color: rgb(233, 13, 13);
+  background-color: rgb(250, 246, 3);
 }
 
 .note__body {
